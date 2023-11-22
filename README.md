@@ -7,3 +7,5 @@ Este projeto tem como objetivo implementar um sistema de visão computacional ca
 A detecção de objetos será realizada por meio do YOLO, um framework de aprendizado profundo que permite a detecção eficiente de múltiplos objetos em uma única passagem pela rede neural. A utilização do OpenCV facilitará a manipulação e processamento de imagens, proporcionando uma integração eficiente com o modelo YOLO.
 
 Ao finalizar este projeto, espera-se ter um sistema robusto capaz de identificar e delimitar com precisão seres humanos e carros em diferentes contextos visuais, contribuindo para aplicações práticas em segurança, monitoramento e reconhecimento de objetos em tempo real.
+
+Prévia: ![Alt text](image.png)
